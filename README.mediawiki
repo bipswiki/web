@@ -1126,4 +1126,11 @@
 | Pieter Wuille, Andrew Chow
 | Informational
 | Draft
+|-
+| [[bip-1337.mediawiki|1337]]
+| Applications
+| Ordinal Numbers
+| Casey Rodarmor
+| Informational
+| Draft
 |}
